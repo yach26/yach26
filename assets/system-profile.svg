@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="515" viewBox="0 0 900 515">
+  <style>
+    text { font: 18px monospace; }
+  </style>
+  <defs>
+    <clipPath id="line01"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="0s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line02"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="0.9s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line03"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="1.8s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line04"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="2.7s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line05"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="3.6s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line06"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="4.5s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line07"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="5.4s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line08"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="6.3s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line09"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="7.2s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line10"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="8.1s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line11"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="9s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line12"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="9.9s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line13"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="10.8s" fill="freeze" /></rect></clipPath>
+    <clipPath id="line14"><rect width="0" height="28"><animate attributeName="width" from="0" to="900" dur="0.75s" begin="11.7s" fill="freeze" /></rect></clipPath>
+  </defs>
+  <g transform="translate(0,0)" clip-path="url(#line01)"><text x="18" y="23" fill="#67e8f9">$ boot profile --user yachna</text></g>
+  <g transform="translate(0,40)" clip-path="url(#line02)"><text x="18" y="26" fill="#67e8f9">USER: YACHNA KAILASH SHARMA</text></g>
+  <g transform="translate(0,80)" clip-path="url(#line03)"><text x="18" y="26" fill="#a78bfa">EDUCATION: Computer Engineering @ TSEC</text></g>
+  <g transform="translate(0,120)" clip-path="url(#line04)"><text x="18" y="26" fill="#60a5fa">YEAR: TE | BATCH 2028</text></g>
+  <g transform="translate(0,160)" clip-path="url(#line05)"><text x="18" y="26" fill="#f472b6">ROLE: AI/ML &amp; Data Enthusiast</text></g>
+  <g transform="translate(0,200)" clip-path="url(#line06)"><text x="18" y="26" fill="#fb7185">ABOUT:</text></g>
+  <g transform="translate(0,240)" clip-path="url(#line07)"><text x="18" y="26" fill="#f8fafc">-&gt; Curious about how data becomes intelligence.</text></g>
+  <g transform="translate(0,280)" clip-path="url(#line08)"><text x="18" y="26" fill="#f8fafc">-&gt; Building systems that turn ideas into working products.</text></g>
+  <g transform="translate(0,320)" clip-path="url(#line09)"><text x="18" y="26" fill="#f8fafc">-&gt; Exploring AI, machine learning, and data engineering.</text></g>
+  <g transform="translate(0,360)" clip-path="url(#line10)"><text x="18" y="26" fill="#f8fafc">-&gt; Learning by building, breaking, debugging, and shipping.</text></g>
+  <g transform="translate(0,400)" clip-path="url(#line11)"><text x="18" y="26" fill="#34d399">FOCUS: Data -&gt; Intelligence -&gt; Production</text></g>
+  <g transform="translate(0,440)" clip-path="url(#line12)"><text x="18" y="26" fill="#fbbf24">CURRENTLY: Exploring AI/ML | RAG | Data Engineering</text></g>
+  <g transform="translate(0,480)" clip-path="url(#line14)"><text x="18" y="26" fill="#67e8f9">$ profile ready [ok] |</text></g>
+</svg>

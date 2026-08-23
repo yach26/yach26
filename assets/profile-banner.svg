@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect width="1200" height="220" fill="#070b17" />
+  <g stroke="#172554" stroke-width="1" opacity="0.8">
+    <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200" />
+    <path d="M80 0V220M160 0V220M240 0V220M320 0V220M400 0V220M480 0V220M560 0V220M640 0V220M720 0V220M800 0V220M880 0V220M960 0V220M1040 0V220M1120 0V220" />
+  </g>
+  <path d="M0 178 C150 130 220 190 350 135 S570 75 700 128 S920 188 1200 65" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.8" />
+  <path d="M0 195 C180 160 290 205 430 160 S650 105 790 150 S1010 180 1200 105" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0.7" />
+  <g fill="#f472b6">
+    <circle cx="170" cy="151" r="4" /><circle cx="350" cy="135" r="4" /><circle cx="700" cy="128" r="4" /><circle cx="920" cy="165" r="4" /><circle cx="1080" cy="101" r="4" />
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="170" cy="151" r="9" opacity="0.18" /><circle cx="350" cy="135" r="9" opacity="0.18" /><circle cx="700" cy="128" r="9" opacity="0.18" /><circle cx="920" cy="165" r="9" opacity="0.18" /><circle cx="1080" cy="101" r="9" opacity="0.18" />
+  </g>
+</svg>
