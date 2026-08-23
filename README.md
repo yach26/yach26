@@ -54,6 +54,6 @@
 ### <img src="./assets/contribution-snake-label.svg" alt="# CONTRIBUTION.SNAKE" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yach26/yach26/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=yach26" width="100%" alt="GitHub contribution snake animation" />
 </div>
 
